@@ -1,4 +1,4 @@
-# Data Scientist Salary Modeling (MSIS 642 Project)
+# Data Scientist Salary Modeling 
 
 ## Overview
 This project explores what factors influence a data scientist’s salary using real-world job data. I built five regression models in R to understand both salary levels and the probability of earning above the median salary.
@@ -23,5 +23,5 @@ This project explores what factors influence a data scientist’s salary using r
 
 ##  Files
 - `salary_model.R` – R script with full modeling workflow
-- **`642_Report_Dante_Lambros.pdf` This is my full write-up with visuals and interpretation for the clearest explanations**
+- **`Data Science Salary Report.pdf` This is my full write-up with visuals and interpretation for the clearest explanations**
 - `Data Scientist Salary_2021.csv` 
